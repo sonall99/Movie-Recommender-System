@@ -48,7 +48,4 @@ This is a content-based Movie Recommender System built with **Python**, **Stream
    ```bash
    pip install -r requirements.txt
 
-3. Run the app
-   ```bash
-   streamlit run streamlit_app.py
 
