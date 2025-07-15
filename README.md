@@ -37,7 +37,10 @@ This is a content-based Movie Recommender System built with **Python**, **Stream
 | `README.md` | Project description |
 
 ---
+## 🌐 Live Demo
+👉 https://movie-recommender-system-mlproject.streamlit.app/
 
+---
 ## 🔧 How to Run Locally
 
 ### 1. Clone the repository
