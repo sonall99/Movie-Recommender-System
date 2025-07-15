@@ -41,13 +41,16 @@ This is a content-based Movie Recommender System built with **Python**, **Stream
 ## 🔧 How to Run Locally
 
 ### 1. Clone the repository
+```bash
 git clone https://github.com/sonall99/Movie-Recommender-System.git
-cd Movie-Recommender-System
+cd Movie-Recommender-System ```
 
 ### 2. Install dependencies
-pip install -r requirements.txt
+```bash
+pip install -r requirements.txt ```
 
 ### 3. Run the app
-streamlit run streamlit_app.py
+```bash
+streamlit run streamlit_app.py ```
 
 
