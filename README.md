@@ -3,7 +3,6 @@
 This is a content-based Movie Recommender System built with **Python**, **Streamlit**, and **machine learning** techniques. It recommends movies based on similarity with the one selected by the user.
 
 ---
-
 ## 🚀 Features
 
 - 🔍 Recommends 5 similar movies based on the selected movie
